@@ -1,4 +1,3 @@
-// tailwind.config.js
 module.exports = {
   content: [
     './src/app/**/*.{js,ts,jsx,tsx}',  // Incluye todos los archivos en la carpeta src
